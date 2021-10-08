@@ -1,1 +1,4 @@
-# Operating-System-
+# Operating_system 
+
+
+경희대학교 21학년도 2학기 운영체제 황효석 교수님의 수업을 바탕으로 작성하였습니다. 
